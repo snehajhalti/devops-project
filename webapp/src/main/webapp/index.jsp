@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>DevOps-project</h1>
+    <h1>Registration App for DevOps Learning by Sneha Jha PSID-10844506</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
